@@ -344,7 +344,7 @@
     <td width="41%" height="56">&nbsp;</td>
     <td width="12%">&nbsp;</td>
     <td height="56" class="judul2">&nbsp;</td>
-    <td height="56" class="judul2"><strong> Registrasi</strong></td>
+    <td height="56" class="judul2"><strong> PERUBAHAN</strong></td>
     <td width="0%" height="56">&nbsp;</td>
   </tr>
   <tr height="auto">
